@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Meco/AndroidStudioProjects/ilk/app/src/main/res/drawable/dgru_secilen_secenek_bg.xml" value="0.21" />
+        <entry key="..\:/Users/Meco/AndroidStudioProjects/ilk/app/src/main/res/drawable/doğruysa.xml" value="0.21" />
+        <entry key="..\:/Users/Meco/AndroidStudioProjects/ilk/app/src/main/res/drawable/secenek_bg.xml" value="0.33" />
+        <entry key="..\:/Users/Meco/AndroidStudioProjects/ilk/app/src/main/res/drawable/secilen_secenek_bg.xml" value="0.21" />
+        <entry key="..\:/Users/Meco/AndroidStudioProjects/ilk/app/src/main/res/drawable/yanlis_secilen_secenek_bg.xml" value="0.21" />
+        <entry key="..\:/Users/Meco/AndroidStudioProjects/ilk/app/src/main/res/drawable/yanlıs_secilen_secenek_bg.xml" value="0.21" />
+        <entry key="..\:/Users/Meco/AndroidStudioProjects/ilk/app/src/main/res/drawable/yanlışsa.xml" value="0.21" />
+        <entry key="..\:/Users/Meco/AndroidStudioProjects/ilk/app/src/main/res/layout/activity_main.xml" value="0.3734375" />
+        <entry key="..\:/Users/Meco/AndroidStudioProjects/ilk/app/src/main/res/layout/activity_sonuc.xml" value="0.31794871794871793" />
+        <entry key="..\:/Users/Meco/AndroidStudioProjects/ilk/app/src/main/res/layout/activity_sorular.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
